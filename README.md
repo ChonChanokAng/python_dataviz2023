@@ -1,2 +1,2 @@
 # SC663401 Basic Programming for Data Science and Data Visualization
-> Chonchanok Angkurasi 643021263-1
+> ชนม์ชนก อังคุระษี 643021263-1
